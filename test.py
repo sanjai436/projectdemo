@@ -1,4 +1,4 @@
 import random
 
-test = random.randint(100)
+test = random.randint(200)
 print(test)
